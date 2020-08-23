@@ -89,7 +89,7 @@ a:hover{
 .post-author span{
     margin-left: 16px;
 }
-.post-container:nth-child(2){
+.post-container:nth-child(even){
     background-color: lightgray;
     margin: auto;
 }
